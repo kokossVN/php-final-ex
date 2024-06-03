@@ -1,0 +1,33 @@
+
+.item_container {
+  display: flex;
+  gap: 20px;
+  background-color: #fff !important;
+}
+.item_container .left_site {
+  max-width: 40%;
+  overflow: hidden;
+  padding: 5px;
+  flex-grow: 4;
+}
+.item_container .right_site{
+  max-width: 60%;
+  flex-grow: 6;
+}
+
+.fruit_section .fruit_container .box .link_box a {
+  margin: 10px 0;
+}
+
+/* .fruit_section .fruit_container form .box  .link_box button { */
+/*   display: inline-block; */
+/*   padding: 7px 35px; */
+/*   border: 1px solid #ffffff; */
+/*   color: #ffffff; */
+/*   font-size: 15px; */
+/* } */
+/**/
+/* .fruit_section .fruit_container form .box  .link_box button:hover { */
+/*   background-color: #ffffff; */
+/*   color: #000000; */
+/* } */
